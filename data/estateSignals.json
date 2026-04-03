@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-02-13T02:16:11.629Z",
+  "inputCounts": {
+    "obituarySignals": 0,
+    "probateSignals": 3
+  },
+  "matchCount": 1,
+  "matches": [
+    {
+      "propertyId": "sb-1001",
+      "address": "1186 Willow St, San Jose, CA 95125",
+      "ownerName": "Elena Martinez",
+      "city": "San Jose",
+      "signalType": "probate",
+      "source": "County probate calendar export (25PR198765)",
+      "signalDate": "2026-01-17",
+      "confidence": 0.82,
+      "reason": "Probate filing last-name + city match"
+    }
+  ]
+}
